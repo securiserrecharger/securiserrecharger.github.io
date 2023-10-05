@@ -347,7 +347,6 @@ section {
 }
 
 button a {
-    display: block;
     position: relative;
     padding:.5rem;
     border-radius: .5rem;
